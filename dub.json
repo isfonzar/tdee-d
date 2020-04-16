@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Icaro S."
+	],
+	"copyright": "Copyright © 2020, Icaro S.",
+	"description": "Calculate how much energy (calories) are burned daily given the weight, height and age or Lean Body Mass.",
+	"license": "MIT",
+	"name": "tdee-d"
+}

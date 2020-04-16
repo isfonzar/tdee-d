@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/tdee-d
+tdee-d.so
+tdee-d.dylib
+tdee-d.dll
+tdee-d.a
+tdee-d.lib
+tdee-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
